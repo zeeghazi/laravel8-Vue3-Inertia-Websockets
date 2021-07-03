@@ -4,6 +4,8 @@ Its a starter template of Laravel 8, Intertia JS and Vue 3 an WebSockets.
 
 It requires php 8+
 
+This template uses Laravel Echo with Websocket ( https://github.com/beyondcode/laravel-websockets ) which is pusher replacement
+
 ## How To Use
 
 - Clone using Git / Download as Zip and extract to your local folder
